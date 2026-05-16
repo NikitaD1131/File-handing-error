@@ -1,4 +1,4 @@
-# File-handing-error
+# File-handling-error
 Python program to read a file and handle errors using exception handling.
 try:
     with open("sample.txt ", "rt") as fh:
